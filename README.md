@@ -8,7 +8,9 @@
 2.找到转账的txid 访问链接
 https://steexp.com/tx/这里填txid
 
-3.在页面中找到Ledger（或https://steexp.com/ledger/这里填找到的Ledger），点击之后可以看到Hash
+3.在页面中找到Ledger，点击之后可以看到Hash
+
+或 https://steexp.com/ledger/这里填找到的Ledger
 
 4.找到Hash的后4位，换算成10进制，并按照比例映射到0-99以内
 
